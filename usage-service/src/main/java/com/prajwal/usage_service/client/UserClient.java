@@ -3,9 +3,11 @@ package com.prajwal.usage_service.client;
 import com.prajwal.usage_service.dto.UserDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 
 @RequiredArgsConstructor
+@Component
 public class UserClient {
     private  RestClient restClient;
     public UserClient(@Value("${user.service.url}") String baseUrl) {

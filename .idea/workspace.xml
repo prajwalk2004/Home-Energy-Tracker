@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66128c34-ae3d-4305-a776-de44bdd80c2a" name="Changes" comment="user service usage service device service," />
+    <list default="true" id="66128c34-ae3d-4305-a776-de44bdd80c2a" name="Changes" comment="user service usage service device service,">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influxdb_data/influxd.bolt" beforeDir="false" afterPath="$PROJECT_DIR$/influxdb_data/influxd.bolt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influxdb_data/influxd.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/influxdb_data/influxd.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/UsageServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/UsageServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/client/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/client/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/service/UsageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/service/UsageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usage-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/resources/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
