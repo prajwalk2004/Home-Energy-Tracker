@@ -141,7 +141,7 @@ public class UsageService {
                 log.info("ALERT: User ID {} has exceeded the energy threshold! " +
                                 "Total Consumption: {}, Threshold: {}",
                         userId, totalConsumption, threshold);
-                // Put message on kafak alert-topic
+
                 final AlertingEvent alertingEvent = AlertingEvent.builder()
                         .userId(userId)
                         .message("Energy consumption threshold exceeded")

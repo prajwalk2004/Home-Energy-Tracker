@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66128c34-ae3d-4305-a776-de44bdd80c2a" name="Changes" comment="user service usage service device service,">
+    <list default="true" id="66128c34-ae3d-4305-a776-de44bdd80c2a" name="Changes" comment="influx_db-configuration changes">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/influxdb_data/influxd.bolt" beforeDir="false" afterPath="$PROJECT_DIR$/influxdb_data/influxd.bolt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/influxdb_data/influxd.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/influxdb_data/influxd.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/UsageServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/UsageServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/client/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/client/UserClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/service/UsageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/java/com/prajwal/usage_service/service/UsageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usage-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/usage-service/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prajwalk2004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prajwalk2004/Home-Energy-Tracker.git&quot;,
+    &quot;accountId&quot;: &quot;13e7f052-8145-4728-a4b2-2221d73d8f3d&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -56,6 +66,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -110,9 +121,30 @@
       <option name="presentableId" value="Default" />
       <updated>1789207770886</updated>
     </task>
+    <task id="LOCAL-00001" summary="influx_db-configuration changes">
+      <option name="closed" value="true" />
+      <created>1789994862752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789994862752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="influx_db-configuration changes">
+      <option name="closed" value="true" />
+      <created>1789994922342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789994922342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="influx_db-configuration changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="influx_db-configuration changes" />
   </component>
 </project>
